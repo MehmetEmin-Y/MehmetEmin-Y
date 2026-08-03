@@ -11,7 +11,7 @@
 
 I'm a cybersecurity student focused on building a strong foundation in **network security**. While studying TCP/IP, network architecture, and CCNA fundamentals, I like to go beyond theory — building and testing my own tools in Python to understand *how* security actually works under the hood.
 
-- 🔭 Currently building **[BitGuard](https://github.com/MehmetEmin-Y/BitGuard)** — a hash-verified network transfer tool with TLS 1.3 encryption and automatic chunk-level self-healing
+- 🔭 Currently building **[BitGuard](https://github.com/MehmetEmin-Y/Bit-Guard)** — a hash-verified network transfer tool with TLS 1.3 encryption and automatic chunk-level self-healing
 - 🌱 Currently learning: **CCNA (Routing & Switching)**, advanced TCP/IP, Linux system administration
 - 💬 Ask me about: Python, network fundamentals, cryptography basics
 - 🎯 Looking for: internship / entry-level opportunities in **Network Security**
@@ -34,7 +34,7 @@ I'm a cybersecurity student focused on building a strong foundation in **network
 
 ### 📌 Featured Project
 
-<a href="https://github.com/MehmetEmin-Y/BitGuard">
+<a href="https://github.com/MehmetEmin-Y/Bit-Guard">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MehmetEmin-Y&repo=BitGuard&theme=tokyonight" />
 </a>
 
