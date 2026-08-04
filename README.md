@@ -5,6 +5,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=Building+a+strong+foundation+in+TCP%2FIP;Learning+CCNA+%C2%B7+Routing+%26+Switching;Turning+theory+into+working+tools" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MehmetEmin-Y/MehmetEmin-Y/main/network-animation.svg" width="90%" alt="animated network diagram" />
+</p>
+
 ---
 
 ### 🧭 About Me
