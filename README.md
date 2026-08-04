@@ -59,4 +59,6 @@ I'm a cybersecurity student focused on building a strong foundation in **network
   </a>
 </p>
 
-
+<p align="center">
+  <img src="https://media.giphy.com/media/LzH3FozsNzq8U/giphy.gif" width="300"/>
+</p>
