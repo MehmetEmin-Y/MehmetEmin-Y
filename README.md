@@ -57,6 +57,12 @@ I'm a cybersecurity student focused on building a strong foundation in **network
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MehmetEmin-Y&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" width="42%" />
 </p>
 
+### 🧊 3D Contribution Calendar
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MehmetEmin-Y/MehmetEmin-Y/main/profile-3d-contrib/profile-night-rainbow.svg" width="90%" />
+</p>
+
 ---
 
 ### 🔗 Connect with Me
