@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/LzH3FozsNzq8U/giphy.gif" width="100%" style="opacity:0.05;"/>
+</p>
 <h1 align="center">Hi 👋, I'm [MehmetEmin-Y]</h1>
 <h3 align="center">Cybersecurity Student · Aspiring Network Security Engineer</h3>
 
