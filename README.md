@@ -35,7 +35,7 @@ I'm a cybersecurity student focused on building a strong foundation in **network
 ### 📌 Featured Project
 
 <a href="https://github.com/MehmetEmin-Y/Bit-Guard">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MehmetEmin-Y&repo=BitGuard&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MehmetEmin-Y&repo=Bit-Guard&theme=tokyonight" />
 </a>
 
 **BitGuard** — A network transfer tool that verifies data integrity with SHA-256, encrypts traffic with TLS 1.3, and automatically re-requests only the corrupted chunk if a transfer is damaged (instead of restarting from scratch). Built to understand, hands-on, the gap between a system that *looks* secure and one that *actually* is.
@@ -53,18 +53,6 @@ I'm a cybersecurity student focused on building a strong foundation in **network
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MehmetEmin-Y&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" width="42%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MehmetEmin-Y&theme=react-dark&hide_border=true&area=true" width="90%" />
-</p>
-
-### 🧊 3D Contribution Calendar
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/MehmetEmin-Y/MehmetEmin-Y/main/profile-3d-contrib/profile-night-rainbow.svg" width="90%" />
-</p>
-
-
-
 ---
 
 ### 🔗 Connect with Me
@@ -74,4 +62,3 @@ I'm a cybersecurity student focused on building a strong foundation in **network
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
-
