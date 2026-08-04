@@ -58,7 +58,3 @@ I'm a cybersecurity student focused on building a strong foundation in **network
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/LzH3FozsNzq8U/giphy.gif" width="300"/>
-</p>
