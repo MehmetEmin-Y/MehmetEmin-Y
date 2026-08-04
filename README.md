@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmJ1N2ljcWiwMHE4c3NyOXkzNzB0cjdtNDZhc2xmYXd2cGF5M3FwdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ew57HYXAM8716OOtPm/giphy.gif" width="100%" style="opacity:0.05;" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmJ1N2ljcWiwMHE4c3NyOXkzNzB0cjdtNDZhc2xmYXd2cGF5M3FwdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ew57HYXAM8716OOtPm/giphy.gif" width="100%" style="opacity:0.1;"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm [MehmetEmin-Y]</h1>
