@@ -60,7 +60,7 @@ I'm a cybersecurity student focused on building a strong foundation in **network
 ### 🧊 3D Contribution Calendar
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MehmetEmin-Y/MehmetEmin-Y/main/profile-3d-contrib/profile-night-rainbow.svg" width="90%" />
+  <img src="https://raw.githubusercontent.com/MehmetEmin-Y/MehmetEmin-Y/main/profile-3d-contrib/profile-night-rainbow.svg" width="50%" />
 </p>
 
 ---
