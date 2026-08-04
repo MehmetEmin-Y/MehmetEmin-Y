@@ -1,83 +1,69 @@
 <p align="center">
-  <img src="https://i.giphy.com/media/v1.YXRsIjFUb29sL0AAeHJlZiZpbj1kZWZhdWx0JmZ0PWN0cwAAY3JlYXRlZCBieSBBZHZlbnR1cmVyIG9mIHRoZSBHZWNyZXRzIG9mIHRoZSBBZHZlbnR1cmVyIG9mIHRoZSBHZWNyZXRzIG9mIHRoZSBBZHZlbnR1cmVyIG9mIHRoZSBHZWNyZXRzIG9mIHRoZSBBZHZlbnR1cmVyIG9mIHRoZSBHZWNyZXRzIG9mIHRoZSBBZHZlbnR1cmVyIG9mIHRoZSBHZWNyZXRzIG9mIHRoZSBBZHZlbnR1cmVyIG9mIHRoZSBHZWNyZXRzIG9mIHRoZSBBZHVlbnR1cmVyIG9mIHRoZSBHZWNyZXRzIG9mIHRoZSBBZHVlbnR1cmVyIG9mIHRoZSBHZWNyZXRzIG9mIHRoZSBBZHVlbnR1cmVyIG9mIHRoZSBHZWNyZXRzIG9mIHRoZSBBZHVlbnR1cmVyIG9mIHRoZSBHZWNyZXRzIG9mIHRoZSBBZHVlbnR1cmVyIG9mIHRoZSBHZWNyZXRzIG9mIHRoZSBBZHVlbnR1cmVyIG9mIHRoZSBHZWNyZXRzIG9mIHRoZSBBZHVlbnR1cmVyIG9mIHRoZSBHZWNyZXRzIG9mIHRoZSBBZHVlbnR1cmVyIG9mIHRoZSBHZWNyZXRzIG9mIHRoZSBBZHVlbnR1cmVyIG9mIHRoZSBHZWNyZXRzIG9mIHRoZSBBZHVlbnR1cmVyIG9mIHRoZSBHZWNyZXRzIG9mIHRoZSBBZHVlbnR1cmVyIG9mIHRoZSBHZWNyZXRzIG9mIHRoZSBBZHVlbnR1cmVyIG9mIHRoZSBHZWNyZXRzIG9mIHRoZSBBZHVlbnR1cmVyIG9mIHRoZSBHZWNyZXRzIG9mIHRoZSBBZHVlbnR1cmVyIG9mIHRoZSBHZWNyZXRzIG9mIHRoZSBBZHVlbnR1cmVyIG9mIHRoZSBHZWNyZXRzIG9mIHRoZSBBZHVlbnR1cmVyIG9mIHRoZSBHZWNyZXRzIG9mIHRoZSBBZHVlbnR1cmVyIG9mIHRoZSBHZWNyZXRzIG9mIHRoZSBBZHVlbnR1cmVyIG9mIHRoZSBHZWNyZXRzIG9mIHRoZSBBZHVlbnR1cmVyIG9mIHRoZSBHZWNyZXRzIG9mIHRoZSBBZHVlbnR1cmVyIG9mIHRoZSBHZWNyZXRzIG9mIHRoZSBBZHVlbnR1cmVyIG9mIHRoZSBHZWNyZXRzIG9mIHRoZSBBZHVlbnR1cmVyIG9mIHRoZSBHZWNyZXRzIG9mIHRoZSBBZHVlbnR1cmVyIG9mIHRoZSBHZWNyZXRzIG9mIHRoZSBBZHVlbnR1cmVyIG9mIHRoZSBHZWNyZXRzIG9mIHRoZSBBZHVlbnR1cmVyIG9mIHRoZSBHZWNyZXRzIG9mIHRoZSBBZHVlbnR1cmVyIG9mIHRoZSBHZWNyZXRzIG9mIHRoZSBBZHVlbnR1cmVyIG9mIHRoZSBHZWNyZXRzIG9mIHRoZSBBZHVlbnR1cmVyIG9mIHRoZSW==" alt="Banner" width="100%">
-  <br>
-  <img src="https://img.shields.io/badge/🧠%20Cybersecurity-Student-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🔐%20Security%20Researcher-8A2BE2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/💻%20Developer-2D2D2D?style=for-the-badge" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmJ1N2ljcWiwMHE4c3NyOXkzNzB0cjdtNDZhc2xmYXd2cGF5M3FwdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ew57HYXAM8716OOtPm/giphy.gif" width="100%" style="opacity:0.05;" />
 </p>
 
-<h1 align="center">Merhaba! 👋 Ben MehmetEmin-Y</h1>
+<h1 align="center">Hi 👋, I'm [MehmetEmin-Y]</h1>
+<h3 align="center">Cybersecurity Student · Aspiring Network Security Engineer</h3>
 
 <p align="center">
-  <img src="https://readmebackground.vercel.app/api?type=dark&quote=Cybersecurity+Student+%7C+Network+Security+Engineer+%7C+Ethical+Hacker&author=MehmetEmin-Y&size=40&space=false&size=20" alt="Readme Background"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=Building+a+strong+foundation+in+TCP%2FIP;Learning+CCNA+%C2%B7+Routing+%26+Switching;Turning+theory+into+working+tools" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🧠 Hakkımda
+### 🧭 About Me
 
-Bir **siber güvenlik öğrencisi** olarak, özellikle **ağ güvenliği**, **TCP/IP**, ve **CCNA** konseptlerine yoğunlaşıyorum. Teoriyi kodlama ve araç geliştirmekle birleştirerek öğrenmeye çalışıyorum. Şu anda **[BitGuard](https://github.com/MehmetEmin-Y/Bit-Guard)** adlı projeyi geliştiriyorum.
+I'm a cybersecurity student focused on building a strong foundation in **network security**. While studying TCP/IP, network architecture, and CCNA fundamentals, I like to go beyond theory — building and testing my own tools in Python to understand *how* security actually works under the hood.
 
-- 🔭 Aktiflik: **BitGuard** projesi, **ağ veri aktarımında bütünlük ve şifreleme**
-- 🌱 Öğrenim: **CCNA**, **Linux**, **Python**, **Ağ Protokolleri**
-- 💬 Sorular: Python, ağlar, şifreleme, güvenlik
-- ✉️ İletişim: [LinkedIn](https://www.linkedin.com/in/mehmeteminyter/)
+- 🔭 Currently building **[BitGuard](https://github.com/MehmetEmin-Y/Bit-Guard)** — a hash-verified network transfer tool with TLS 1.3 encryption and automatic chunk-level self-healing
+- 🌱 Currently learning: **CCNA (Routing & Switching)**, advanced TCP/IP, Linux system administration
+- 💬 Ask me about: Python, network fundamentals, cryptography basics
+- 🎯 Looking for: internship / entry-level opportunities in **Network Security**
+- ⚡ Fun fact: I once found and fixed a real integrity-verification bug in my own forensic tool — that's when testing clicked for me
 
 ---
 
-### 🛠️ Yetenekler
+### 🛠️ Skills
 
 <p align="left">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-circle&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-circle&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/-Wireshark-167AD8?style=flat-circle&logo=wireshark"/>
-  <img src="https://img.shields.io/badge/-Nmap-4682B4?style=flat-circle&logo=nmap"/>
-  <img src="https://img.shields.io/badge/-Wireshark-167AD8?style=flat-circle&logo=wireshark"/>
-  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-circle&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Wireshark-167AD8?style=flat-circle&logo=wireshark"/>
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-circle&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Wireshark-167AD8?style=flat-circle&logo=wireshark"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TCP%2FIP-0A66C2?style=for-the-badge&logo=cisco&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TLS%2FSSL-4CAF50?style=for-the-badge&logo=letsencrypt&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cryptography-6E40C9?style=for-the-badge&logo=hashicorp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
 ---
 
-### 🏆 Projeler
+### 📌 Featured Project
 
-#### 🛡️ BitGuard  
-**Hash Doğrulama + TLS 1.3 + Otomatik Parça Kurtarma Ağ Aktarım Aracı**  
-Bir ağ transfer aracıdır ki veri bütünlüğünü SHA256 ile doğrular, trafiği TLS 1.3 ile şifreler ve bozulmuş parçaları tekrar talep edebilir. Güvenlikte teoriden pratğe geçişi vurgular.
+<a href="https://github.com/MehmetEmin-Y/Bit-Guard">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MehmetEmin-Y&repo=Bit-Guard&theme=tokyonight&border_radius=10"/>
+</a>
 
-📍 [GitHub Repo](https://github.com/MehmetEmin-Y/Bit-Guard)  
+**BitGuard** — A network transfer tool that verifies data integrity with SHA-256, encrypts traffic with TLS 1.3, and automatically re-requests only the corrupted chunk if a transfer is damaged (instead of restarting from scratch). Built to understand, hands-on, the gap between a system that *looks* secure and one that *actually* is.
 
 ---
 
-### 📊 GitHub İstatistiklerim
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MehmetEmin-Y&show_icons=true&theme=radical&hide=prs&border_radius=10" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MehmetEmin-Y&layout=compact&theme=radical&hide=shell&border_radius=10" width="350"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MehmetEmin-Y&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MehmetEmin-Y&theme=tokyonight&hide_border=true&border_radius=10" width="48%"/>
 </p>
 
 ---
 
-### 🔗 Sosyal Bağlantılarım
+### 🔗 Connect with Me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/mehmeteminyeter/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/MehmetEmin-Y">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://tryhackme.com/p/mehmeteminyeter">
-    <img src="https://img.shields.io/badge/-TryHackMe-212F46?style=for-the-badge&logo=tryhackme&logoColor=white"/>
+<p align="left">
+  <a href="https://www.linkedin.com/in/mehmeteminyeter/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-<h2 align="center">📫 İletişime Geç!
-
-<p align="center">
-  <img src="https://media.giphy.com/media/jcm3H7GtWZIw0/giphy.gif" width="200"/>
-</p>
+> 🔐 *“Security is not just about tools — it’s about mindset.”*  
+> * — Mehmet*
