@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm [MehmetEmin-Y]</h1>
+<h1 align="center">Hi 👋, I'm Mehmet Emin</h1>
 <h3 align="center">Cybersecurity Student · Aspiring Network Security Engineer</h3>
 
 <p align="center">
@@ -49,12 +49,27 @@ I'm a cybersecurity student focused on building a strong foundation in **network
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MehmetEmin-Y&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MehmetEmin-Y&layout=compact&theme=tokyonight&hide_border=true" width="42%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MehmetEmin-Y&theme=react-dark&hide_border=true&area=true" width="90%" />
+</p>
+
+### 🧊 3D Contribution Calendar
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MehmetEmin-Y/MehmetEmin-Y/profile-3d-contrib/profile-night-rainbow.svg" width="90%" />
+</p>
+
+
 ---
 
 ### 🔗 Connect with Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/mehmeteminyeter/" target="_blank">
+  <a href="https://linkedin.com/in/[https://www.linkedin.com/in/mehmeteminyeter/]" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
