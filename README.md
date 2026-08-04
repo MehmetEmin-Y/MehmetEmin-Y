@@ -38,29 +38,14 @@ I'm a cybersecurity student focused on building a strong foundation in **network
 
 ### 📌 Featured Project
 
-<a href="https://github.com/MehmetEmin-Y/Bit-Guard">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MehmetEmin-Y&repo=Bit-Guard&theme=tokyonight" />
-</a>
-
-**BitGuard** — A network transfer tool that verifies data integrity with SHA-256, encrypts traffic with TLS 1.3, and automatically re-requests only the corrupted chunk if a transfer is damaged (instead of restarting from scratch). Built to understand, hands-on, the gap between a system that *looks* secure and one that *actually* is.
+**[BitGuard](https://github.com/MehmetEmin-Y/Bit-Guard)** — A network transfer tool that verifies data integrity with SHA-256, encrypts traffic with TLS 1.3, and automatically re-requests only the corrupted chunk if a transfer is damaged (instead of restarting from scratch). Built to understand, hands-on, the gap between a system that *looks* secure and one that *actually* is.
 
 ---
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MehmetEmin-Y&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" width="48%" />
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=MehmetEmin-Y&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MehmetEmin-Y&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" width="42%" />
-</p>
 
 ### 🧊 3D Contribution Calendar
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MehmetEmin-Y/MehmetEmin-Y/main/profile-3d-contrib/profile-night-rainbow.svg" width="80%" />
+  <img src="https://raw.githubusercontent.com/MehmetEmin-Y/MehmetEmin-Y/main/profile-3d-contrib/profile-night-rainbow.svg" width="90%" />
 </p>
 
 ---
